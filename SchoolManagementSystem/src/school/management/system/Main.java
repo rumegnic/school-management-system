@@ -39,8 +39,5 @@ public class Main {
 
         System.out.println(patrick);
         System.out.println(lizzy);
-
-        Teacher newTeacher = new Teacher(6, "Badum Basim", 2223);
-        ravenwoodHigh.addTeacher(newTeacher);
     }
 }
